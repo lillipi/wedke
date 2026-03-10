@@ -1,0 +1,50 @@
+.header {
+  margin-top: 35px;
+}
+
+.pagename {
+  font-family: var(--second-family);
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 88%;
+  text-align: center;
+  color: var(--accentred);
+}
+
+.header--grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  margin-top: 10px;
+}
+
+.header--grid-first {
+  margin-top: 25px;
+}
+
+.header--grid-col {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.header--grid-colsecond {
+  margin-top: 48px;
+}
+
+.header--img {
+  max-height: 350px;
+}
+
+.header--text-call {
+  font-family: var(--third-family);
+  font-style: italic;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 60%;
+  color: var(--secondarycolor);
+}
+
+.header--text-call-sec {
+  text-align: end;
+}

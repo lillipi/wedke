@@ -1,0 +1,33 @@
+/* Шрифты */
+@font-face {
+  font-family: "Gilroy";
+  src: url("../fonts/Gilroy-Light.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("../fonts/Gilroy-ExtraBold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NauryzRedKeds";
+  src: url("../fonts/NauryzRedKeds.woff2") format("woff2"),
+       url("../fonts/NauryzRedKeds.woff") format("woff"),
+       url("../fonts/NauryzRedKeds.ttf") format("truetype"),
+       url("../fonts/NauryzRedKeds.otf") format("opentype");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Vasek";
+  src: url("../fonts/Vasek-Italic.woff2") format("woff2"),
+       url("../fonts/Vasek-Italic.woff") format("woff"),
+       url("../fonts/Vasek_Italic.otf") format("opentype"),
+       url("../fonts/Vasek_Italic.ttf") format("truetype");
+}
