@@ -274,11 +274,14 @@
   color: var(--maincolor);
 }
 
-
 .footer-content {
+  margin: 25px auto;
+}
+
+.footer-content-row {
   display: flex;
   justify-content: space-between;
-  margin: 25px auto;
+  margin: 15px auto;
   font-size: 16px;
   color: var(--secondarycolor);
 }
@@ -445,4 +448,5 @@
     visibility: hidden;
     pointer-events: none;
   }
+
 }
