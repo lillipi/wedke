@@ -275,13 +275,15 @@
 }
 
 .footer-content {
+  display: flex;
+  flex-direction: column;
   margin: 25px auto;
 }
 
 .footer-content-row {
   display: flex;
   justify-content: space-between;
-  margin: 15px auto;
+  margin: 15px 0;
   font-size: 16px;
   color: var(--secondarycolor);
 }
@@ -450,3 +452,4 @@
   }
 
 }
+
