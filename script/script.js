@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxRg2p3e01CObgBe9QddgTKXOg4Gz6q0CjSOBxkdlw5--JT6biJS0lPiX-QuvrTEiXw/exec';
+  const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyY-NgXLyj-sf1iKDSRhYnt9lH_-m0TQBlJp-9ufTKASYL9_5cyi2FOvSvgtj9aG68/exec';
 
   const form = document.getElementById('telegramForm');
   const loading = document.getElementById('loading');
