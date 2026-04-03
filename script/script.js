@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  const EMAIL_TO = 'neuztroeva.liza@gmail.com';
+  const EMAIL_TO = 'neustroeva.ksyusha@gmail.com';
   const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxd2ntcq4ZPwAQXmHCztgt9Vp7pW2REh-YtWqhS-nDvLBCBUR3oVrYdbDK1bT0oaXuI/exec'; // 👈 URL для Google Sheets (опционально)
 
   const form = document.getElementById('telegramForm');
